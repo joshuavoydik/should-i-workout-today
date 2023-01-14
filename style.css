@@ -1,0 +1,19 @@
+#workout-button {
+    font-size: 5em;
+    text-align: center;
+    padding: 30px;
+    transition: background-color 0.1s ease-in-out;
+}
+
+.light-gray-bg {
+    background-color: #f0f0f0;
+}
+
+#workout-button:hover {
+    background-color: rgb(217, 217, 217);
+    color: black;
+    border-color: black;
+}
+
+
+
