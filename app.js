@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function() {
 const responses = ['Yes', 'Mmmhmmm', 'You know it'];
 
 // select a button
-const button = document.querySelector('#myButton');
+const button = document.querySelector('button');
 
 // add a click event listener to the button
 button.addEventListener('click', function() {
