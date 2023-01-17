@@ -1,3 +1,3 @@
-# should-i-workout-today
+# Should I work out today?
 
 # YES
