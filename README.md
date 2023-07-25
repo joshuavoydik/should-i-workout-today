@@ -1,3 +1,3 @@
 # Should I work out today?
 
-# YES
+# You'll find out
